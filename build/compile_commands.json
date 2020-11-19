@@ -1,0 +1,172 @@
+[
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/core/main.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/core/main.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/core/main.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/AScene.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/AScene.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/AScene.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/AScenePlayerControls.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/AScenePlayerControls.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/AScenePlayerControls.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/Menu.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/Menu.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/Menu.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/MainMenu.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/MainMenu.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/MainMenu.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/Scenes.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/Scenes.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/Scenes.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/Game.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/Game.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/Game.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/Options.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/Options.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/Options.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/Pause.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/Pause.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/Pause.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/MenuPlayer.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/MenuPlayer.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/MenuPlayer.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/ControlMenu.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/ControlMenu.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/ControlMenu.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/finder/AFinder.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/finder/AFinder.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/finder/AFinder.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/finder/Finder.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/finder/Finder.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/finder/Finder.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/tools/Tools.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/tools/Tools.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/tools/Tools.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/character/player/APlayerController.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/character/player/APlayerController.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/character/player/APlayerController.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/utils/FileReader.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/utils/FileReader.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/utils/FileReader.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/EventListener.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/EventListener.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/EventListener.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/AEntity.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/AEntity.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/AEntity.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/character/ACharacter.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/character/ACharacter.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/character/ACharacter.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/character/player/Player.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/character/player/Player.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/character/player/Player.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/power_up/APowerUp.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/power_up/APowerUp.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/power_up/APowerUp.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/power_up/PowerUp.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/power_up/PowerUp.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/power_up/PowerUp.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/wall/AWall.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/wall/AWall.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/wall/AWall.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/wall/Wall.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/wall/Wall.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/wall/Wall.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/bomb/Bomb.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/bomb/Bomb.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/bomb/Bomb.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/map/MapGenerator.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/map/MapGenerator.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/map/MapGenerator.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/utils/IndieStudio.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/utils/IndieStudio.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/utils/IndieStudio.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/map/Entities.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/map/Entities.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/map/Entities.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/character/AI/AI.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/character/AI/AI.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/character/AI/AI.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/map/Logger.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/map/Logger.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/map/Logger.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/character/player/Control.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/character/player/Control.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/character/player/Control.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/entity/fire/Fire.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/entity/fire/Fire.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/entity/fire/Fire.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/WinMenu.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/WinMenu.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/WinMenu.cpp"
+},
+{
+  "directory": "/home/vfrocrain/OOP_indie_studio_2019/build",
+  "command": "/usr/bin/c++   -I/home/vfrocrain/OOP_indie_studio_2019/modules -I/home/vfrocrain/OOP_indie_studio_2019/include  -lIrrlicht -lGL -lGLU -lsfml-audio -g   -o CMakeFiles/bomberman.dir/src/scenes/GameOver.cpp.o -c /home/vfrocrain/OOP_indie_studio_2019/src/scenes/GameOver.cpp",
+  "file": "/home/vfrocrain/OOP_indie_studio_2019/src/scenes/GameOver.cpp"
+}
+]

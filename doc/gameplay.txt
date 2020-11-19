@@ -1,0 +1,13 @@
+Bomberman is a very famous game, where all player have the same goal, they have to be the last player.
+
+Gameplay involves strategically placing down bombs, which explode in multiple directions after a certain amount of time,
+in order to destroy obstacles and kill other players.
+
+The player can pick up various power-ups:
+-BOMB : maximal bombs down at a time + 1 (start at 1)
+-FIRE : bombs range + 1 (start at 1)
+-SPEED : incresse the player speed
+-WALLPASS : the player can pass inside breakable wall
+
+The player is killed if they get caught up in a bomb's explosion, including their own,
+requiring players to be cautious of their own bomb placement.
